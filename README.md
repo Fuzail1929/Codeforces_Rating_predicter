@@ -16,12 +16,5 @@ https://codeforces-rating-predictor-two.vercel.app/
 
 Technologies Used
 
-Python
-Flask
-Installation
-
-
-Navigate to the Project Directory
-cd Codeforces-Rating-Predictor
-Run the Program
-pthon main.py
+1.Python
+2.Flask
