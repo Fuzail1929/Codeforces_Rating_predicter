@@ -20,8 +20,7 @@ Python
 Flask
 Installation
 
-Clone the repository:
-git clone https://github.com/OmAmar106/Codeforces-Rating-Predictor.git
+
 Navigate to the Project Directory
 cd Codeforces-Rating-Predictor
 Run the Program
