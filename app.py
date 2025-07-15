@@ -44,7 +44,7 @@ def get(s):
         try:
             msg = ("You are above your Expected Rating, Bravo!!!" 
                   if predicted_rating > user_data['rating'] 
-                  else "Hopefully, you will reach your expected rating soon :)")
+                  else msg = ("Hopefully, you will reach your expected rating soon :)")
         except (KeyError, TypeError):
             msg = "Hopefully, you will reach your expected rating soon :)"
         
