@@ -11,7 +11,7 @@ RATING_COLORS = {
     "Candidate Master": "#800080",  # Purple
     "Master": "#FFD700",  # Gold
     "International Master": "#DAA520",  # Goldenrod
-    "Grandmaster": "#DAA520",  # Same as International Master - is this correct?
+    "Grandmaster": "#DAA520",  # Same as International Master
     "International Grandmaster": "#DC143C",  # Crimson
     "Legendary Grandmaster": "#FF0000",  # Red
     "Tourist": "#FFFFFF"
