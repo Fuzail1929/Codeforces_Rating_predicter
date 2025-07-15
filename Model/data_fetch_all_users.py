@@ -1,7 +1,7 @@
 import requests
 import json
 
-url = "https://codeforces.com/api/user.ratedList?activeOnly=false&includeRetired=false"
+url = "https://codeforces.com/api/user.ratedList?activeOnly=false"
 
 response = requests.get(url)
 
