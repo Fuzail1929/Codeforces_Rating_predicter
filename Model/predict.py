@@ -34,7 +34,7 @@ def func(handle):
     else:
         return (False, 0)
 
-    url = "https://codeforces.com/api/user.info?handles="+handle
+    url = "https://codeforces.com/api/user.status?handle="+handle+"&from=1&count=25000"
     response = requests.get(url)
     data = response.json()
 
